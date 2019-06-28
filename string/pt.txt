@@ -1,0 +1,243 @@
+Coloque o código
+Conectar
+Verifique sua conexão com a internet.
+Erro de rede
+erro de servidor
+Erro do Servidor Interno
+Tempo de inatividade
+Servidor está actualmente a enfrentar o tempo de inatividade
+Mostre o que você vê
+Ao continuar, eu confirmo que li e concordo com a política de privacidade.
+Política de Privacidade
+Código inválido
+Código deve ser de 9 dígitos
+Blitzz
+Por favor, insira seu nome
+Nome deve ser inferior a 30 caracteres.
+Por favor introduza o seu código
+Por favor, tente novamente.
+Ninguém está compartilhamento de vídeo.
+tentar novamente
+Re-Conectar
+deixou a conversa
+activado o áudio
+desativado o áudio
+permitiu o vídeo
+desativado o vídeo
+Falha ao entrar na sala
+Alerta
+Gostaria de terminar a participação tela atual e começar a compartilhar seu vídeo?
+Gostaria de acabar com o compartilhamento de tela atual e começar a compartilhar sua tela?
+Gostaria de terminar o vídeo atual e começar a compartilhar sua tela?
+Gostaria de terminar a participação tela atual e começar a compartilhar seu vídeo?
+sim
+Cancelar
+juntou-se a chamada
+Esperando por outros membros para se juntar à chamada
+Aviso
+Não é possível acessar câmera
+erro microfone
+Não é possível acessar local
+Não é possível acessar o armazenamento
+Ative câmera de configurações do dispositivo.
+Ative o microfone de configurações do dispositivo.
+Ative localização de configurações do dispositivo.
+Ative o armazenamento de configurações do dispositivo.
+Dar permissão
+Por favor, aguarde 5 segundos para tirar outra foto
+Por favor espere por
+segundos para tirar outra foto.
+segunda para tirar outra foto.
+informações inválidas recebido do servidor.
+Não é possível para compartilhar vídeo como ninguém mais entrou na conversa ainda
+carregado com sucesso
+desligado
+Desconectado como ninguém se juntou.
+atualização do aplicativo necessário
+Parece que você está em uma versão mais antiga do aplicativo, atualize a partir da App Store.
+Atualizar
+Imagem marcação começou
+Imagem marcação parou
+Definições
+Precisamos de acesso a sua câmera. Por favor, dê permissão câmera
+Precisamos de acesso ao seu microfone. Por favor, dê permissão microfone
+Precisamos de acesso à sua localização. Por favor, dê permissão localização
+Precisamos de acesso ao seu armazenamento. Por favor, dê permissão de armazenamento
+O agente não aderiu, por favor tente novamente mais uma vez em algum tempo.
+permissão de projeção de mídia necessária para compartilhamento de tela.
+Aviso! conexão de rede pobres
+Você é a única pessoa na chamada
+A imagem foi capturada e começou a fazer o upload
+Versão
+Digite o código fornecido a você.
+Iniciar Screenshare
+Parar Screenshare
+câmera flip
+Tirar fotos
+Flash desligado
+Flash ON
+Iniciar Markup
+Parar Markup
+Speaker OFF
+Speaker ON
+Mais
+Perto
+OFF vídeo
+vídeo ON
+Iniciar vídeo
+Parar vídeo
+desconectar
+Mudo
+em surdina
+Alimentado por Blitzz
+Conectando ...
+Conectado
+O pino deve ser de 9 dígitos
+imagem Preparação para marcação ...
+Marcas de imagem clara de todos os usuários?
+Limpar marcação
+Claro
+Fechar Markup
+Tem certeza de que quer encerrar a marcação?
+Fim
+Agente terminou marcação. não pode continuar marcação sem agente
+loading image para Markup ...
+Marcas de imagem liberados para todos os usuários.
+Capturar foto ...
+upload
+imagem
+Imagem pronto para marcar.
+Isto irá parar de vídeo do outro. Você quer continuar?
+Isso irá interromper o compartilhamento de outra tela. Você quer continuar?
+Iniciado Screenshare.
+Parado Screenshare.
+Limpar tudo
+Inicie uma nova chamada com CÓDIGO
+limite de chamada em grupo alcançou
+Entre em contato com seu administrador para aumentar o limite de participantes ou esperar por outros membros para deixar a sessão.
+Chamada está sendo conectada, tente novamente mais tarde.
+Gravado para fins de treinamento
+Você está compartilhando a tela
+Localização:
+Encontro:
+Imagem para marcação foi baixado
+Dispensar
+serviço de jogo Google não atualizado
+REC
+Você está offline.
+remarcação
+Saída
+vídeo não suportado
+Por favor, abra o seguinte endereço no Safari.
+Você não é capaz de ver este vídeo.
+Apenas números são permitidos.
+aviso de permissão
+Incapaz de se juntar a chamada. Por favor, tente depois de algum tempo
+Compartilhe seu vídeo ao vivo?
+Compartilhar sua tela?
+Não é possível acessar Flash Light.
+Câmera não estiver disponível, tente novamente.
+Não é possível baixar imagem do servidor para Markup, por favor, tente novamente.
+Tente novamente
+tela Markup vai aparecer em breve ...
+confirme
+Começar
+Não foi possível encontrar ponto final do servidor.
+Por favor, espere...
+Feito
+Está bem
+Por favor tente novamente com ID de agente válido.
+CÓDIGO reunião não está associado a este ID Agent.
+Distribuído por
+Falha
+CÓDIGO
+Inicie uma nova chamada?
+Pare de compartilhar
+Reconectando chamada ...
+Não é possível acessar seu microfone ou câmera.
+Certifique-se de permitir o acesso nas configurações do navegador.
+Certifique-se de que você tem câmera ou microfone ligado.
+Localização bloqueados pelo utilizador
+Usuário juntou a chamada
+Tem certeza de que deseja fechar esta janela?
+guia de reset
+Open in Google Maps
+imagem Local de upload falhou
+upload de imagens
+Carregar falhou
+Markup é inprogress ...
+Selecione o idioma
+Verificação de extensão ...
+Para começar a compartilhar a tela no modo anônimo você precisa para começar o modo incógnito do Blitzz - Tela extensão Compartilhar de seu navegador.
+Clique em
+Personalize e menu de controle
+mais ferramentas
+extensões
+Clique em detalhes (Blitzz)
+Permitir em modo anônimo.
+compartilhar a tela
+share parada
+Salve 
+Cancelar
+sim
+mensagem
+Desculpe, este dispositivo não é compatível.
+Faça o download do nosso aplicativo para continuar.
+Baixar aplicativo
+Este navegador não é suportada atualmente.
+Por favor, abra o seguinte endereço na versão mais recente do Google Chrome ou instalar o nosso Mobile App e tente novamente.
+Por favor, abra o seguinte endereço na última versão do Safari navegador ou instalar o nosso Mobile App e tente novamente.
+Por favor, abra o seguinte endereço na versão mais recente do Google Chrome e tente novamente.
+OK
+Gostaria de instalar o nosso App para se juntar Reunião ou Continuar com o navegador?
+Continuar
+Adicionar extensão Blitzz para compartilhar a tela
+'Adicionar ao Chrome e Confirmar'
+Adicionar extensão
+Ative câmera de configurações do navegador.
+Câmera não encontrada
+Você precisa habilitar sua câmera, recarregue a página e voltar a ligar chamada.
+Ative o microfone de configurações do navegador.
+Microfone não encontrado
+É necessário habilitar o microfone, recarregue a página e voltar a ligar chamada.
+Falha no Download
+continue Markup
+Save and Exit Markup
+Markup Exit
+Você agora está gravando a conversa.
+Certifique-se que os participantes sabem que estão sendo gravados.
+Você pode baixar o arquivo gravado depois.
+Algo não está certo, por favor tente novamente.
+sala de reunião mensal limitar acabou.
+Você não tem a permissão para criar sala de reuniões.
+Deixar de enviar sms no telemóvel
+Código inválido. Por favor, tente novamente.
+Não é possível criar usuário temporário.
+Erro adicionar membro em db.
+Não é possível adicionar membro em diálogo chat.
+Código não encontrado.
+Código já existe.
+Não é possível criar reunião de diálogo chat.
+Código criar, mas não pode enviar sms.
+Não é possível definir reunião expirar o tempo.
+Erro gerar link da reunião.
+SMS não enviada. Verifique o número e tente novamente ou contate o administrador de domínio.
+Não é possível enviar e-mail de reunião.
+não pode compartilhamento de tela, sem aderir a uma sessão ShowMe. Por favor lançar ShowMe por Blitzz, e digite o código fornecido a você.
+limite de chamada em grupo atingido. Entre em contato com seu administrador para aumentar o limite de participante ou esperar por um membro que deixar a sessão.
+Outro usuário está tentando compartilhar a tela ou vídeo
+Chamada termina
+Gostaria de salvar a imagem?
+áudio não suportado
+Por favor, instale nosso aplicativo para continuar.
+Não é possível reproduzir áudio remoto.
+Não é possível a reprodução de áudio.
+Não é possível reproduzir vídeo.
+Não é possível a reprodução de vídeo.
+OK
+Teste de Pré-chamada
+Língua
+Teste rápido
+Restabelecer
+Mais Zoom
+Reduzir o zoom

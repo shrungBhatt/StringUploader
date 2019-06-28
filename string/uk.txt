@@ -1,0 +1,243 @@
+Enter Code
+Connect
+Check your Internet Connection.
+Network Error
+Server Error
+Internal server error
+Down Time
+Server is currently facing downtime
+Show what you see
+By continuing, I confirm that I have read and agree to the Privacy Policy.
+Privacy Policy
+Invalid CODE
+Code should be of 9 digits
+Blitzz
+Please enter your Name
+Name should be less than 30 characters.
+Please enter your CODE
+Please try again.
+No one is sharing video.
+Retry
+Re-Connect
+left the conversation
+enabled the audio
+disabled the audio
+enabled the video
+disabled the video
+Failed to join room
+Alert
+Would you like to end the current screen share and start sharing your video?
+Would you like to end the current screen sharing and start sharing your screen?
+Would you like to end the current video and start sharing your screen?
+Would you like to end the current screen share and start sharing your video?
+Yes
+Cancel
+joined the call
+Waiting for other members to join the call
+Warning
+Unable to access camera
+Microphone error
+Unable to access location
+Unable to access storage
+Please enable camera from device settings.
+Please enable microphone from device settings.
+Please enable location from device settings.
+Please enable storage from device settings.
+Give Permission
+Please wait for 5 seconds to take another photo
+Please wait for
+seconds to take another photo.
+second to take another photo.
+Invalid information received from the server.
+Unable to share video as no one else has joined the conversation yet
+Successfully uploaded
+Disconnected
+Disconnected as no one else joined.
+Application update required
+Looks like you are on an older version of the application, please update from the app store.
+Update
+Image marking started
+Image marking stopped
+Settings
+We need access to your camera. Please give camera permission
+We need access to your microphone. Please give microphone permission
+We need access to your location. Please give location permission
+We need access to your storage. Please give storage permission
+The agent has not joined, please retry again in some time.
+Media projection permission needed for screen sharing.
+Warning! Poor network connection
+You are the only person in the call
+Image has been captured and started uploading
+Version
+Please enter the CODE provided to you.
+Start Screenshare
+Stop Screenshare
+Flip Camera
+Take Photo
+Flash OFF
+Flash ON
+Start Markup
+Stop Markup
+Speaker OFF
+Speaker ON
+More
+Close
+Video OFF
+Video ON
+Start Video
+Stop Video
+Disconnect
+Mute
+Muted
+Powered by Blitzz
+Connecting…
+Connected
+The pin should be of 9 digit
+Preparing image for markup…
+Clear image Markups from all users?
+Clear markup
+Clear
+Close Markup
+Are you sure you want to close markup?
+End
+Agent has ended markup. Cannot continue markup without agent
+Loading image for Markup…
+Image Markups cleared for all users.
+Capturing photo…
+Uploading
+image
+Image ready to Mark up.
+This will stop other's video. Do you want to continue?
+This will stop other's screen sharing. Do you want to continue?
+Started Screenshare.
+Stopped Screenshare.
+Clear all
+Start new call with CODE
+Group call limit reached
+Please contact your admin to increase the participants limit or wait for other members to leave the session.
+Call is being connected, please try again later.
+Recorded for training purposes
+You're sharing the screen
+Location:
+Date:
+Image for markup has been downloaded
+Dismiss
+Google play service not updated
+REC
+You are offline.
+Markup
+Exit
+Video unsupported
+Please open this link in Safari.
+You are not able to see this video.
+Only numbers are allowed.
+Permission warning
+Unable to join call. Please try after sometime
+Share your live video?
+Share your screen?
+Unable to access Flash Light.
+Camera is unavailable, Try again.
+Unable to download image from the server to Markup, Please try again.
+Try again
+Markup screen will appear shortly...
+Confirm
+Start
+Could not find server endpoint.
+Please wait...
+Done
+Ok
+Please try again with valid Agent ID.
+Meeting CODE is not associated with this Agent ID.
+Powered by 
+Failure
+CODE
+Start new call?
+Stop sharing
+Reconnecting call...
+Unable to access your microphone or camera.
+Be sure to allow access in your browser settings.
+Make sure you have camera or microphone attached.
+Location blocked by user
+User has joined the call
+Are you sure you want to close this window?
+Reset guide
+Open in Google Maps
+Location image upload failed
+Uploading image
+Upload failed
+Markup is inprogress...
+Select Language
+Checking for extension...
+To start screen share in incognito mode you need to start incognito mode from Blitzz - Screen Share extension of your browser.
+Click on
+Customize and control menu
+More tools
+Extensions
+Click on detail (Blitzz)
+Allow in incognito.
+Screen share
+Stop share
+Save
+Cancel
+Yes
+Message
+Sorry, this device is not compatible.
+Please download our app to continue.
+Download App
+This browser is currently not supported.
+Please open this link in the latest version of Google Chrome or Install our Mobile App and try again.
+Please open this link in the latest version of Safari Browser or Install our Mobile App and try again.
+Please open this link in the latest version of Google Chrome and try again.
+Okay
+Would you like to install our App to join Meeting or Continue with browser?
+Continue
+Add Blitzz extension to screen share
+'Add to Chrome & Confirm'
+Add Extension
+Please enable camera from browser settings.
+Camera not found
+You need to enable your camera, reload the page and reconnect call.
+Please enable microphone from browser settings.
+Microphone not found
+You need to enable your microphone, reload the page and reconnect call.
+Download failed
+Continue Markup
+Save and Exit Markup
+Exit Markup
+You are now recording the conversation.
+Make sure participants know they’re being recorded.
+You can download the recorded file afterwards.
+Something is not right, please retry.
+Monthly meeting room limit over.
+You don't have a permission to create meeting room.
+Fail to send sms on mobile number
+Invalid Code. Please try again.
+Can't create temp user.
+Error to add member in db.
+Can't add member into chat dialogue.
+Code not found.
+Code already Exists.
+Can't create meeting chat dialog.
+Code create but can't send sms.
+Can't set meeting expire time.
+Error generate meeting link.
+SMS not sent. Please check the number and try again or contact your domain admin.
+Can't send meeting email.
+Cannot screen share without joining a ShowMe Session. Please launch ShowMe by Blitzz, and enter the CODE provided to you.
+Group call limit reached. Please contact your Admin to increase the participant limit or wait for a member to leave the session.
+Other user is trying to share screen or video
+Call has ended
+Would you like to save the image?
+Audio Unsupported
+Please install our app to continue.
+Unable to play remote audio.
+Unable to playback audio.
+Unable to play video.
+Unable to playback video.
+OKAY
+Pre-call Test
+Language
+Speed Test
+Reset
+Zoom In
+Zoom Out

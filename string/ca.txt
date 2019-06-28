@@ -1,0 +1,243 @@
+Entrez le code
+Relier
+Vérifiez votre connection internet.
+Erreur réseau
+erreur du serveur
+Erreur Interne du Serveur
+Down Time
+Server est actuellement confronté à des temps d'arrêt
+Montrez ce que vous voyez
+En continuant, je confirme que je l'ai lu et accepté la politique de confidentialité.
+Politique de confidentialité
+Code invalide
+Code devrait être de 9 chiffres
+Blitzz
+S'il vous plaît entrez votre nom
+Nom doit être inférieur à 30 caractères.
+S'il vous plaît entrer votre code
+Veuillez réessayer.
+Personne ne partage vidéo.
+Réessayez
+Re-Connecter
+quitté la conversation
+permis à l'audio
+désactivé l'audio
+permis à la vidéo
+désactivé la vidéo
+Impossible de rejoindre la chambre
+Alerte
+Voulez-vous mettre fin à la part actuelle de l'écran et commencer à partager votre vidéo?
+Voulez-vous mettre fin au partage d'écran en cours et commencer à partager votre écran?
+Voulez-vous mettre fin à la vidéo en cours et commencer à partager votre écran?
+Voulez-vous mettre fin à la part actuelle de l'écran et commencer à partager votre vidéo?
+Oui
+Annuler
+rejoint l'appel
+En attendant d'autres membres à se joindre à l'appel
+Attention
+Impossible d'accéder à la caméra
+Erreur de microphone
+Impossible d'accéder à l'emplacement
+Impossible d'accéder au stockage
+S'il vous plaît activer l'appareil photo de réglages de l'appareil.
+S'il vous plaît activer le microphone de réglages de l'appareil.
+S'il vous plaît permettre à l'emplacement de réglages de l'appareil.
+S'il vous plaît permettre le stockage de paramètres de l'appareil.
+Donner la permission
+S'il vous plaît attendre 5 secondes pour prendre une autre photo
+Attendez s'il vous plaît
+secondes pour prendre une autre photo.
+seconde pour prendre une autre photo.
+Des informations incorrectes reçues du serveur.
+Impossible de partager la vidéo comme personne d'autre n'a encore rejoint la conversation
+avec succès téléchargé
+Débranché
+Disconnected comme personne d'autre rejoint.
+mise à jour de l'application requise
+On dirait que vous êtes sur une ancienne version de l'application, s'il vous plaît mettre à jour de l'App Store.
+Mettre à jour
+Image de marquage a commencé
+Image de marquage arrêté
+Réglages
+Nous devons avoir accès à votre appareil photo. S'il vous plaît donner la permission de la caméra
+Nous avons besoin d'un accès à votre micro. S'il vous plaît donner la permission du microphone
+Nous avons besoin d'un accès à votre emplacement. S'il vous plaît donner la permission de l'emplacement
+Nous devons avoir accès à votre stockage. S'il vous plaît donner la permission de stockage
+L'agent n'a pas adhéré, s'il vous plaît réessayer à nouveau dans quelque temps.
+l'autorisation de projection de médias nécessaire pour le partage d'écran.
+Attention! mauvaise connexion réseau
+Vous êtes la seule personne dans l'appel
+L'image a été capturé et mis en ligne de
+Version
+S'il vous plaît entrer le code fourni pour vous.
+Démarrer Screenshare
+arrêt Screenshare
+Caméra flip
+Prendre une photo
+Flash désactivé
+flash sur
+Markup Démarrer
+arrêt de balisage
+Président OFF
+Président ON
+Plus
+Fermer
+vidéo OFF
+vidéo ON
+Démarrer la vidéo
+Arrêter la vidéo
+couper
+Muet
+En sourdine
+Propulsé par Blitzz
+De liaison…
+Connecté
+La broche doit être de 9 chiffres
+Préparation de l'image pour le balisage ...
+Image claire Majorations de tous les utilisateurs?
+balisage clair
+Clair
+Markup Fermer
+Êtes-vous sûr de vouloir fermer le balisage?
+Fin
+Agent a terminé le balisage. Ne peut pas continuer sans agent de balisage
+Chargement image pour le balisage ...
+Majorations Image défrichées pour tous les utilisateurs.
+Capture photo ...
+Téléchargement
+image
+Image prêt pour marquer.
+Cela arrêtera la vidéo des autres. Voulez-vous continuer?
+Cela arrêtera autre partage d'écran. Voulez-vous continuer?
+Commencé Screenshare.
+Nous nous sommes arrêtés Screenshare.
+Tout effacer
+Démarrez nouvel appel avec le CODE
+limite d'appel du Groupe atteint
+S'il vous plaît contacter votre administrateur pour augmenter la limite des participants ou attendre que les autres membres de quitter la séance.
+Appel est connecté, s'il vous plaît réessayer plus tard.
+Enregistré à des fins de formation
+Vous partagez l'écran
+Emplacement:
+Rendez-vous amoureux:
+Image pour le balisage a été téléchargé
+Rejeter
+service de jeu Google pas mis à jour
+REC
+Tu es hors ligne.
+Balisage
+Sortie
+vidéo non pris en charge
+S'il vous plaît ouvrir ce lien dans Safari.
+Vous n'êtes pas en mesure de voir cette vidéo.
+Seuls les chiffres sont autorisés.
+Avertissement d'autorisation
+Impossible de se joindre à l'appel. S'il vous plaît essayer après un certain temps
+Partagez votre vidéo en direct?
+Partagez votre écran?
+Impossible d'accéder à Flash Light.
+L'appareil photo est disponible, essayez à nouveau.
+Impossible de télécharger l'image du serveur vers Markup, S'il vous plaît essayer à nouveau.
+Réessayer
+écran de balisage apparaîtra sous peu ...
+Confirmer
+Début
+Impossible de trouver le point final du serveur.
+S'il vous plaît, attendez...
+Terminé
+D'accord
+S'il vous plaît essayer à nouveau avec l'ID d'agent valide.
+Réunion CODE est pas associé à cet ID d'agent.
+Alimenté par
+Échec
+CODE
+Démarrez nouvel appel?
+arrêter le partage
+appel ... Reconnexion
+Impossible d'accéder à votre micro ou un appareil photo.
+Assurez-vous d'autoriser l'accès à vos paramètres de votre navigateur.
+Assurez-vous que vous avez fixé la caméra ou le microphone.
+Localisation bloquées par l'utilisateur
+Un utilisateur a rejoint l'appel
+Etes-vous sûr de vouloir fermer cette fenêtre?
+Guide Réinitialiser
+Ouvrir dans Google Maps
+Localisation l'image téléchargement a échoué
+Transfert de l'image
+téléchargement échoué
+Markup est InProgress ...
+Choisir la langue
+Vérification de l'extension ...
+Pour commencer la part de l'écran en mode navigation privée vous devez commencer le mode incognito de Blitzz - Extension de partage d'écran de votre navigateur.
+Cliquer sur
+Personnaliser et contrôler le menu
+autres outils
+extensions
+Cliquez sur le détail (Blitzz)
+Autoriser en mode navigation privée.
+Partage d'écran
+Stop part
+sauvegarder
+Annuler
+Oui
+Message
+Désolé, cet appareil n'est pas compatible.
+S'il vous plaît télécharger notre application pour continuer.
+télécharger App
+Ce navigateur est actuellement pas pris en charge.
+S'il vous plaît ouvrir ce lien dans la dernière version de Google Chrome ou installer l'application mobile et essayez à nouveau.
+S'il vous plaît ouvrir ce lien dans la dernière version du navigateur Safari ou installer l'application mobile et essayez à nouveau.
+S'il vous plaît ouvrir ce lien dans la dernière version de Google Chrome et essayez à nouveau.
+d'accord
+Voulez-vous installer notre application pour joindre à la réunion ou Continuer avec le navigateur?
+Continuer
+Ajouter l'extension à Blitzz partage d'écran
+« Ajouter à Chrome et confirmer »
+Ajouter une extension
+S'il vous plaît activer l'appareil photo à partir des paramètres du navigateur.
+Appareil photo introuvable
+Vous devez activer votre appareil photo, recharger la page et reconnecter l'appel.
+S'il vous plaît activer le microphone de paramètres du navigateur.
+Microphone not found
+Vous devez activer votre microphone, recharger la page et reconnecter l'appel.
+Échec du téléchargement
+continuer Markup
+Enregistrer et Quitter Markup
+Marquage de sortie
+Vous êtes maintenant l'enregistrement de la conversation.
+Assurez-vous que les participants savent qu'ils sont en cours d'enregistrement.
+Vous pouvez télécharger le fichier enregistré par la suite.
+Quelque chose ne va pas, s'il vous plaît réessayer.
+limiter la salle de réunion mensuelle sur.
+Vous ne disposez pas d'une autorisation pour créer une salle de réunion.
+Échec d'envoyer des sms sur numéro de portable
+Code invalide. Veuillez réessayer.
+Impossible de créer l'utilisateur temp.
+Erreur d'ajouter membre db.
+Impossible d'ajouter membre dans le dialogue dans le chat.
+Code non trouvé.
+Code existe déjà.
+Impossible de créer la réunion de dialogue de chat.
+Code créer mais ne peut pas envoyer des sms.
+Impossible de définir le délai d'expiration de réunion.
+Erreur générer lien de réunion.
+SMS n'a pas été envoyé. S'il vous plaît vérifier le numéro et essayez à nouveau ou contactez votre administrateur de domaine.
+Impossible d'envoyer des courriels de réunion.
+Impossible d'écran sans se joindre à l'action d'une session ShowMe. S'il vous plaît lancer ShowMe par Blitzz, et entrez le code fourni pour vous.
+limite d'appel du Groupe atteint. S'il vous plaît contacter votre administrateur pour augmenter la limite de participant ou d'attendre un membre de quitter la séance.
+Un autre utilisateur tente de partager l'écran ou vidéo
+Appel a pris fin
+Voulez-vous enregistrer l'image?
+audio non pris en charge
+S'il vous plaît installer notre application pour continuer.
+Impossible de lire l'audio à distance.
+Impossible de lire l'audio.
+Impossible de lire la vidéo.
+Impossible de lire la vidéo.
+D'ACCORD
+Test de pré-appel
+La langue
+Test de rapidité
+Réinitialiser
+Agrandir
+Dézoomer

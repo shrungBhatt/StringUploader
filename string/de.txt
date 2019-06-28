@@ -1,0 +1,243 @@
+Code eingeben
+Verbinden
+Prüfe deine Internetverbindung.
+Netzwerkfehler
+Serverfehler
+Interner Serverfehler
+Down Time
+Server ist derzeit Ausfallzeiten konfrontiert
+Zeigen Sie, was Sie sehen,
+Weiter bestätige ich, dass ich habe die Datenschutzerklärung gelesen und bin damit einverstanden.
+Datenschutzerklärung
+Ungültiger Code
+Code sollte aus 9 Ziffern sein
+Blitzz
+Bitte geben Sie Ihren Namen ein
+Name sollte weniger als 30 Zeichen.
+Bitte geben Sie Ihren CODE
+Bitte versuche es erneut.
+Niemand teilt Video.
+Wiederholen
+Erneut verbinden
+Die Konversation verlassen
+aktiviert den Audio
+das Audio deaktiviert
+aktiviert das Video
+das Video deaktiviert
+Fehlgeschlagen Raum zu betreten
+Warnen
+Möchten Sie den aktuellen Bildschirm Aktie beenden und starten Sie Ihre Video-Sharing?
+Möchten Sie die aktuelle Bildschirmfreigabe beenden möchte und starten Sie Ihren Bildschirm freigeben?
+Möchten Sie das aktuelle Video beenden und starten Sie Ihren Bildschirm freigeben?
+Möchten Sie den aktuellen Bildschirm Aktie beenden und starten Sie Ihre Video-Sharing?
+Ja
+Stornieren
+trat den Anruf
+Warten auf andere Mitglieder der Konferenz teilnehmen
+Warnung
+Unfähig Kamera zugreifen
+Mikrofon Fehler
+Unfähig Standort zugreifen
+Unfähig Speicher zugreifen
+Bitte aktivieren Sie diese Kamera von Geräteeinstellungen.
+Bitte aktivieren Mikrofon von Geräteeinstellungen.
+Bitte aktivieren Sie diese Position von Geräteeinstellungen.
+Bitte aktivieren Sie Lagerung von Geräteeinstellungen.
+Erlaubnis erteilen
+Bitte warten Sie 5 Sekunden ein weiteres Foto aufzunehmen
+Bitte warte auf
+Sekunden ein weiteres Foto aufzunehmen.
+zweite ein weiteres Foto aufzunehmen.
+Ungültige Daten vom Server empfangen.
+Video kann nicht teilen, wie niemand sonst das Gespräch noch beigetreten
+erfolgreich hochgeladen
+Getrennt
+Disconnected wie niemand sonst verbunden.
+Anwendungs-Update erforderlich
+Sieht aus wie Sie auf eine ältere Version der Anwendung, beachten Sie bitte aus dem App Store aktualisieren.
+Aktualisieren
+Bildmarkierung gestartet
+Bild Markierung gestoppt
+die Einstellungen
+Wir brauchen Zugriff auf die Kamera. Bitte geben Kamera Erlaubnis
+Wir müssen den Zugriff auf das Mikrofon. Bitte geben Mikrofon Erlaubnis
+Wir brauchen Zugriff auf Ihren Standort. Bitte geben Standort Erlaubnis
+Wir müssen den Zugriff auf Ihre Ablage. Bitte geben Speicher Erlaubnis
+Der Agent nicht beigetreten ist, bitte versuchen Sie es erneut in einiger Zeit.
+Medien Projektion Erlaubnis für die Bildschirmfreigabe benötigt.
+Warnung! Schlechte Netzwerkverbindung
+Sie sind die einzige Person in dem Anruf
+Bild wurde gefangen genommen und begann das Hochladen
+Ausführung
+Bitte geben Sie den Code, der Ihnen zur Verfügung gestellt.
+Start Screen
+Stopp Screen
+Flip-Kamera
+Foto machen
+Blitz aus
+Blitz an
+Start Markup
+Stop-Markup
+Lautsprecher OFF
+Lautsprecher EIN
+Mehr
+Schließen
+Video OFF
+Video ON
+Video starten
+Stop-Video
+Trennen
+Stumm
+gedämpft
+Unterstützt von Blitzz
+Connecting ...
+In Verbindung gebracht
+Der Stift sollte von 9 Ziffer sein
+Vorbereiten für Markup ...
+Klares Bild Markups von allen Benutzern?
+klar Markup
+klar
+Schließen Markup
+Sind Sie sicher, dass Sie Markup schließen möchten?
+Ende
+Agent beendet Markup. Kann nicht ohne Markup-Agenten weiter
+Lade Bild für Markup ...
+Bild Markups für alle Benutzer gelöscht.
+Capturing Foto ...
+Hochladen
+Bild
+Bild bereit zu markieren.
+Dies wird anderes Video zu stoppen. Wollen Sie fortfahren?
+Dies wird andere Bildschirmfreigabe beenden. Wollen Sie fortfahren?
+Gestartet Screenshare.
+Gestoppt Screenshare.
+Alles löschen
+Neuen Anruf mit CODE
+Gruppenruf Grenze erreicht
+Bitte kontaktieren Sie Ihren Administrator die Teilnehmer zu begrenzen oder warten für andere Mitglieder zu erhöhen, um die Sitzung zu verlassen.
+Anruf verbunden ist, versuchen Sie es später noch einmal.
+für Schulungszwecke aufgezeichnet
+Sie teilen den Bildschirm
+Ort:
+Datum:
+Bild für Markup heruntergeladen wurde
+Entlassen
+Google Play-Service nicht mehr aktualisiert
+REC
+Du bist offline.
+Markup
+Ausgang
+Video nicht unterstützt
+Bitte öffnen Sie diesen Link in Safari.
+Sie sind nicht in der Lage das Video zu sehen.
+Nur Zahlen sind erlaubt.
+Permission Warnung
+Anruf kann nicht beitreten. Bitte versuchen Sie es nach einiger Zeit
+Teilen Sie Ihre Live-Video?
+Geben Sie Ihren Bildschirm?
+Nicht imstande, Flash Light zuzugreifen.
+Die Kamera ist nicht verfügbar, versuchen Sie es erneut.
+Bild kann nicht vom Server zum Markup zum Download, bitte versuchen Sie es erneut.
+Versuchen Sie es nochmal
+Markup-Bildschirm erscheint in Kürze ...
+Bestätigen
+Start
+Server kann nicht Endpunkt finden.
+Warten Sie mal...
+Erledigt
+OK
+Bitte versuchen Sie es erneut mit einem gültigen ID-Agent.
+CODE Meeting ist nicht mit diesem Agenten-ID zugeordnet ist.
+Unterstützt von
+Fehler
+CODE
+Neuen Anruf?
+Hör auf zu teilen
+Wiederherstellen der Verbindung Anruf ...
+Kann Ihr Mikrofon oder Kamera zuzugreifen.
+Achten Sie darauf, den Zugang in Ihren Browser-Einstellungen zu ermöglichen.
+Vergewissern Sie sich, Kamera oder ein Mikrofon angebracht.
+Standort vom User geblockt
+Der Benutzer hat den Anruf verbunden
+Sind Sie sicher, dass Sie dieses Fenster schließen?
+Reset Führungs
+Öffnen Sie in Google Maps
+Ort Bild-Upload fehlgeschlagen
+Hochladen von Bild
+Upload fehlgeschlagen
+Markup ist inprogress ...
+Sprache auswählen
+Überprüfen auf Verlängerung ...
+Um Bildschirm Aktie im Inkognito-Modus starten müssen Sie den Inkognito-Modus von Blitzz starten - Screen Share Erweiterung Ihres Browsers.
+Klicke auf
+Anpassen und Steuern Menü
+Mehr Werkzeuge
+Erweiterungen
+Klicken Sie auf Detail (Blitzz)
+Lassen Sie inkognito in.
+Bildschirm teilen
+Stop-Aktie
+sparen
+Stornieren
+Ja
+Botschaft
+Leider ist dieses Gerät nicht kompatibel.
+Bitte laden Sie unsere App fortzusetzen.
+Lade App herunter
+Dieser Browser wird derzeit nicht unterstützt.
+Bitte öffnen Sie diesen Link in der neuesten Version von Google Chrome oder Installieren Sie unsere Mobile App und versuchen Sie es erneut.
+Bitte öffnen Sie diesen Link in der neuesten Version von Safari Browser oder installieren Sie unsere Mobile App und versuchen Sie es erneut.
+Bitte öffnen Sie diesen Link in der neuesten Version von Google Chrome und versuchen Sie es erneut.
+okay
+Sie möchten unsere App installieren, mit Browser zu verbinden Meeting oder Continue?
+Fortsetzen
+In Blitzz Erweiterung Bildschirm Aktie
+‚In den Chrome & Bestätigen‘
+Erweiterung hinzufügen
+Bitte aktivieren Kamera von Browser-Einstellungen.
+Kamera nicht gefunden
+Sie benötigen eine Kamera aktivieren, aktualisieren Sie die Seite und Anruf wieder an.
+Bitte aktivieren Mikrofon von Browser-Einstellungen.
+Mikrofon nicht gefunden
+Sie benötigen Mikrofon aktivieren, aktualisieren Sie die Seite und Anruf wieder an.
+Herunterladen fehlgeschlagen
+Weiter Markup
+Speichern und Beenden Markup
+Beenden Markup
+Sie nehmen nun das Gespräch.
+Achten Sie darauf, die Teilnehmer wissen, dass sie aufgezeichnet sind zu werden.
+Sie können anschließend die aufgenommene Datei herunterladen.
+Etwas ist nicht richtig, bitte versuchen Sie es erneut.
+Monatstagungsraum begrenzt über.
+Sie haben keine Erlaubnis, Tagungsraum zu schaffen.
+Fail-SMS auf Handy-Nummer senden
+Ungültiger Code. Bitte versuche es erneut.
+Kann nicht Temp Benutzer erstellen.
+Fehler Mitglied in db hinzuzufügen.
+Kann nicht Mitglied in Chat-Dialog hinzufügen.
+Code wurde nicht gefunden.
+Code bereits vorhanden ist.
+Kann nicht treffen Chat-Dialog erstellen.
+Code erstellen kann aber sms nicht senden.
+Kann nicht festgelegt Zeit Sitzung abläuft.
+Fehler erzeugen Link zu erfüllen.
+SMS nicht gesendet. Überprüfen Sie die Nummer und versuchen Sie es erneut oder kontaktieren Sie Ihren Domain-Administrator.
+Kann nicht erfüllen, E-Mail senden.
+Kann nicht teilen Bildschirm eine ShowMe Session, ohne daran teilzunehmen. Bitte starten Sie ShowMe von Blitzz, und geben Sie den Code, der Ihnen zur Verfügung gestellt.
+Gruppenruf Grenze erreicht. Bitte kontaktieren Sie Ihren Administrator das Teilnehmerlimit oder warten Sie auf ein Mitglied zu erhöhen, um die Sitzung zu verlassen.
+Andere Benutzer versucht, Bildschirm oder Video zu teilen
+Anruf beendet
+Möchten Sie das Bild speichern?
+Audio wird nicht unterstützt
+Bitte installieren Sie die App, um fortzufahren.
+Nicht imstande, Remote-Audio zu spielen.
+Kein Audio wiederzugeben.
+Video kann nicht spielen.
+Video kann nicht wiedergegeben werden.
+IN ORDNUNG
+Pre-Call-Test
+Sprache
+Geschwindigkeitstest
+rücksetzen
+Hineinzoomen
+Rauszoomen

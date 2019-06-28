@@ -1,0 +1,243 @@
+Introduzca el código
+Conectar
+Comprueba tu conexión a Internet.
+Error de red
+Error del Servidor
+Error de servidor interno
+El tiempo de inactividad
+Servidor se enfrenta actualmente el tiempo de inactividad
+Mostrar lo que ves
+Al continuar, confirmo que he leído y acepto la Política de Privacidad.
+Política de privacidad
+Codigo invalido
+El código debe ser de 9 dígitos
+Blitzz
+Por favor, escriba su nombre
+Nombre debe ser inferior a 30 caracteres.
+Por favor, introduzca su código de
+Inténtalo de nuevo.
+Nadie está compartiendo vídeo.
+Procesar de nuevo
+Vuelva A Conectar
+abandonado la conversación
+habilitado el audio
+desactivado el audio
+permitido el video
+desactivado el video
+No se ha podido unirse a la habitación
+Alerta
+¿Quieres poner fin a la actual cuota de pantalla y comenzar a compartir su video?
+¿Quieres poner fin al uso compartido de pantalla actual y comenzar a compartir la pantalla?
+¿Le gustaría terminar el vídeo actual y comenzar a compartir la pantalla?
+¿Quieres poner fin a la actual cuota de pantalla y comenzar a compartir su video?
+Sí
+Cancelar
+unido a la llamada
+Esperando a otros miembros a unirse a la llamada
+Advertencia
+No se puede acceder cámara
+micrófono de error
+No se ha podido acceder a la ubicación
+No se ha podido acceder al almacenamiento
+Por favor, activa la cámara de la configuración del dispositivo.
+Por favor, activa el micrófono de configuración del dispositivo.
+Por favor, activa ubicación desde la configuración del dispositivo.
+Por favor, activa el almacenamiento de la configuración del dispositivo.
+Dar permiso
+Por favor, espere 5 segundos para tomar otra foto
+Por favor espere
+segundos para tomar otra foto.
+segundos para tomar otra foto.
+información no válida recibida del servidor.
+No es posible compartir vídeo como nadie más ha unido a la conversación sin embargo,
+Cargado con éxito
+Desconectado
+Desconectada ya que nadie más unido.
+actualización de la aplicación requerida
+Parece como si estuviera en una versión anterior de la aplicación, por favor, actualice desde la tienda de aplicaciones.
+Actualizar
+Imagen de marca comenzó
+Imagen de marca se detuvo
+ajustes
+Necesitamos acceso a la cámara. Por favor, dar permiso cámara
+Necesitamos acceso a su micrófono. Por favor, dar permiso de micrófono
+Necesitamos acceso a su ubicación. Por favor, dar permiso de ubicación
+Necesitamos acceso a su almacenamiento. Por favor, dar permiso de almacenamiento
+El agente no se ha unido, por favor vuelva a intentar de nuevo en algún momento.
+el permiso de proyección medios necesarios para compartir la pantalla.
+¡Advertencia! conexión de red pobres
+Usted es la única persona en la llamada
+La imagen se ha capturado y comenzó a subir
+Versión
+Por favor, introduzca el código proporcionado a usted.
+Compartir la pantalla de inicio
+Compartir pantalla parada
+flip Camera
+Tomar foto
+flash apagado
+Parpadeará en
+inicio de marcado
+parada de marcado
+altavoz OFF
+altavoz en
+Más
+Cerrar
+OFF de vídeo
+video On
+Iniciar vídeo
+Detener video
+Desconectar
+Mudo
+Apagado
+Desarrollado por Blitzz
+Conectando ...
+Conectado
+El pasador debe ser de 9 dígitos
+Preparación para la imagen de marcas ...
+Marcas de imagen clara de todos los usuarios?
+claro marcado
+Claro
+cerca de marcado
+¿Seguro que desea cerrar el marcado?
+Fin
+El agente le ha terminado marcado. No se puede continuar sin agente de marcado
+Cargando la imagen de marcado ...
+Marcas de imagen despejados para todos los usuarios.
+La captura de foto ...
+Carga
+imagen
+Imagen lista para marcar.
+Esto detendrá el video de otra. ¿Quieres continuar?
+Esto evitará que la pantalla compartida de otros. ¿Quieres continuar?
+Compartir pantalla comenzado.
+Dejado de compartir la pantalla.
+Limpiar todo
+Comenzar una nueva llamada con CÓDIGO
+límite de llamada de grupo alcanzó
+Por favor, póngase en contacto con su administrador para aumentar el límite de participantes o esperar a que otros miembros a abandonar la sesión.
+Se está conectada la llamada, por favor intente de nuevo más tarde.
+Grabadas con fines de formación
+Estás compartiendo la pantalla
+Ubicación:
+Fecha:
+Imagen para el marcado se ha descargado
+Despedir
+servicio de juego Google no actualiza
+REC
+Estas desconectado.
+Margen
+Salida
+El video no soportado
+Por favor, siga este enlace en Safari.
+Usted no es capaz de ver el vídeo.
+Sólo se permiten números.
+advertencia permiso
+Incapaz de unirse a la llamada. Por favor, intente después de algún tiempo
+Compartir el vídeo en directo?
+¿Compartir tu pantalla?
+No se puede acceder luz de flash.
+Cámara no está disponible, inténtelo de nuevo.
+No se puede descargar la imagen desde el servidor al marcado, por favor, inténtelo de nuevo.
+Inténtalo de nuevo
+Marca de pantalla aparecerá en breve ...
+Confirmar
+comienzo
+No se pudo encontrar el servidor de punto final.
+Por favor espera...
+Hecho
+De acuerdo
+Por favor, inténtelo de nuevo con ID de agente válido.
+Código de la reunión no está asociado con este ID de agente.
+Energizado por
+Fracaso
+CÓDIGO
+Comenzar una nueva llamada?
+Deja de compartir
+Volver a conectar la llamada ...
+No se ha podido acceder al micrófono o la cámara.
+Asegúrese de permitir el acceso en la configuración del navegador.
+Asegúrate de que tienes la cámara o micrófono conectado.
+Ubicación bloqueados por el usuario
+El usuario ha unido a la llamada
+¿Seguro que desea cerrar esta ventana?
+guía de reposición
+Abrir en Google Maps
+No se pudo subir la imagen Localización
+la imagen subida
+Subida fallida
+Marcado es inprogress ...
+Seleccione el idioma
+Comprobación de la extensión ...
+Para iniciar la cuota de pantalla en el modo de incógnito que necesita para iniciar el modo incógnito de Blitzz - Screen Share extensión de su navegador.
+Haga clic en
+Personalizar y controlar el menú
+Más herramientas
+extensiones
+Haga clic en detalle (Blitzz)
+Permitir modo incógnito.
+Compartir pantalla
+cuota de parada
+Salvar
+Cancelar
+Sí
+Mensaje
+Lo sentimos, este dispositivo no es compatible.
+Por favor, descargue nuestra aplicación para continuar.
+Descargar aplicación
+Este navegador no es compatible actualmente.
+Por favor, siga este enlace en la última versión de Google Chrome o Instalar nuestra aplicación móvil y vuelve a intentarlo.
+Por favor, siga este enlace la última versión de Safari navegador o instalar nuestra aplicación móvil y vuelve a intentarlo.
+Por favor, siga este enlace en la última versión de Google Chrome y vuelve a intentarlo.
+Bueno
+¿Le gustaría instalar nuestra aplicación para unirse a reuniones o continuar con el navegador?
+Continuar
+Añadir extensión Blitzz de cuota de pantalla
+'Añadir a Chrome y confirmar'
+Añadir Extensión
+Por favor, activa la cámara desde la configuración del navegador.
+Cámara no encontrada
+Necesita habilitar su cámara, vuelva a cargar la página y volver a conectar la llamada.
+Por favor, activa el micrófono de configuración del navegador.
+El micrófono no encontrado
+Necesita habilitar el micrófono, vuelva a cargar la página y volver a conectar la llamada.
+Descarga fracasó
+continuar marcado
+Guardar y Salir de marcado
+marcado de salida
+Ahora está grabando la conversación.
+Asegúrese de que los participantes saben que están siendo grabadas.
+Puede descargar el archivo grabado posteriormente.
+Algo no está bien, por favor, inténtelo de nuevo.
+sala de reuniones mensuales Limitador de selección.
+Usted no tiene permiso para crear una sala de reuniones.
+Dejar de enviar sms en el número de teléfono móvil
+Codigo invalido. Inténtalo de nuevo.
+No se puede crear el usuario temp.
+Error al agregar miembro en dB.
+No se puede agregar miembro de un diálogo de chat.
+Código no encontrado.
+Código ya existe.
+No se puede crear el cumplimiento de diálogo de chat.
+Código de crear, pero no puede enviar sms.
+No se puede establecer el cumplimiento de tiempo de expiración.
+Error generar el cumplimiento de enlace.
+SMS no enviado. Por favor, compruebe el número y vuelva a intentarlo o póngase en contacto con el administrador del dominio.
+No se puede enviar el cumplimiento de correo electrónico.
+No se puede compartido de la pantalla sin unirse a una sesión de ShowMe. Por favor lanzar ShowMe por Blitzz, e introduzca el código proporcionado a usted.
+límite de llamada de grupo alcanzó. Por favor, póngase en contacto con su administrador para aumentar el límite de participante o esperar a que un miembro de abandonar la sesión.
+Otro usuario está tratando de pantalla de vídeo o compartir
+Llamada ha terminado
+¿Le gustaría guardar la imagen?
+audio no compatible
+Por favor instalar nuestra aplicación para continuar.
+No se puede reproducir el audio remoto.
+Incapaz de reproducción de audio.
+No se puede reproducir vídeo.
+No puede reproducir vídeo.
+BUENO
+Prueba de pre-llamada
+Idioma
+Test de velocidad
+Reiniciar
+Acercarse
+Disminuir el zoom
